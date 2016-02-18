@@ -1,11 +1,11 @@
 # hello-world
 Just another repository
 
-My Interests:
-I like llamas and unicorns.
-I like cheese and crackers.
-
-My Dislikes:
-Raisins
-Divas
-People who litter
+My Interests:<br />
+I like llamas and unicorns.<br />
+I like cheese and crackers.<br />
+<br />
+My Dislikes:<br />
+Raisins<br />
+Divas<br />
+People who litter<br />
